@@ -1,2 +1,4 @@
 this is a test file.
 
+updated file 1.
+updated file 1 by version 2.
